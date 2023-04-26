@@ -2,7 +2,10 @@
 
 ![img](img/Photo.JPG)
 
-### ✋ Hello Everyone, this is Rekha, i am from India. I done my MBA in India and I have 9+ years of work experience in different filed. And I know little bit coding
+## ✋ Hello Everyone, this is Rekha, i am from India. I done my MBA in India
+
+and I have 9+ years of work experience in different filed. And I know little bit
+coding
 
 ---
 
