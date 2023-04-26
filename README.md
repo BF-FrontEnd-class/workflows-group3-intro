@@ -1,4 +1,4 @@
-# (project name)
+# Project name: workflows-group3-intro
 
 <!-- describe your project -->
 
@@ -6,8 +6,8 @@
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
+1. `git clone git@github.com:BF-FrontEnd-class/workflows-group3-intro.git`
+2. `cd workflows-group3-intro`
 3. `npm install`
 
 ## Code Quality Checks
