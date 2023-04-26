@@ -1,4 +1,4 @@
-# Project: workflows-group3-intro
+# (project name)
 
 <!-- describe your project -->
 
