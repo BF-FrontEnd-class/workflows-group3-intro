@@ -1,6 +1,13 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Rekha", "Sriraman", "ISTQB"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Rekha",
+    "Sriraman",
+    "ISTQB"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
