@@ -2,10 +2,10 @@
 
 This is the **first** team project make
 
-- [Ervin Mamutov](https://github.com/ervinMamutov)
-- [Iryna Sobetska](https://github.com/IrynaSobetska)
-- [Rekhasriraman](https://github.com/Rekhasriraman)
-- [Komal](https://github.com/komal-89)
+- [Ervin Mamutov](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/ervinMamutov.md)
+- [Iryna Sobetska](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/IrynaSobetska.md)
+- [Komal](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/komal-89.md)
+- [Rekhasriraman](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/Rekhasriraman.md)
 
 Project repo:
 
