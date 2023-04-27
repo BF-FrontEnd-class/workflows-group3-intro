@@ -6,7 +6,8 @@
     "Nepo",
     "Rekha",
     "Sriraman",
-    "ISTQB"
+    "ISTQB",
+    "test"
   ],
   "ignorePaths": [
     "node_modules/**",
