@@ -1,6 +1,18 @@
 {
   "language": "en",
   "words": ["Samir", "REKHA", "SRIRAMAN", "Rekha", "ISTQB", "Nepo"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Irynas",
+    "Iryna",
+    "Ukrain",
+    "exspesially",
+    "gradueted",
+    "myphoto",
+    "iryna"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "student-bios/**",
