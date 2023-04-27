@@ -10,7 +10,3 @@ This is the **first** team project make
 Project repo:
 
 [Intro Group 3](https://github.com/BF-FrontEnd-class/workflows-group3-intro)
-
-
-
-
