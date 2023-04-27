@@ -5,7 +5,7 @@ This is the **first** team project make:
 - [Ervin Mamutov](https://github.com/ervinMamutov)
 - [Iryna Sobetska](https://github.com/IrynaSobetska)
 - [Rekhasriraman](https://github.com/Rekhasriraman)
-- [komal](https://github.com/komal-89)
+- [Komal](https://github.com/komal-89)
 
 Project repo:
 
