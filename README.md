@@ -1,6 +1,8 @@
 # Intro Group 3
 
-This is the **first** team project make
+Hello HYF Team,
+I am Ervin with my team members Rekha, Iryna and Komal. We are presenting are first project in front of your as a team, hope you will like it.
+
 
 - [Ervin Mamutov](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/ervinMamutov.md)
 - [Iryna Sobetska](https://github.com/BF-FrontEnd-class/home/blob/main/student-bios/IrynaSobetska.md)
