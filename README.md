@@ -1,4 +1,4 @@
-# Project name: Intro Group 3
+# Intro Group 3
 
 This is the **first** team project make:
 
