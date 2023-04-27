@@ -1,11 +1,34 @@
 {
   "language": "en",
   "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Mamutov"],
+  "words": ["Samir", "REKHA", "SRIRAMAN", "Rekha", "ISTQB", "Nepo"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Misra",
+    "Marrital",
+    "Geneve",
+    "Evere",
+    "Medha",
+    "Intelizign",
+    "Linkdin",
+    "Linkdin",
+    "komal",
+    "Mamutov",
+    "Iryna",
+    "Rekhasriraman",
+    "Sobetska"
+  ],
   "ignorePaths": [
     "node_modules/**",
+    "student-bios/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg"
+    "**/*.svg",
+    "**/*.jpg",
+    "**/*.JPG",
+    "**/*.png"
   ]
 }
