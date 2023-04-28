@@ -1,10 +1,16 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Mamutov"],
-  "words": ["Samir", "REKHA", "SRIRAMAN", "Rekha", "ISTQB", "Nepo"],
   "words": [
     "HackYourFutureBelgium",
     "HackYourFuture",
+    "Nepo",
+    "Mamutov",
+    "Samir",
+    "REKHA",
+    "SRIRAMAN",
+    "Rekha",
+    "ISTQB",
+    "Nepo",
     "Nepo",
     "Misra",
     "Marrital",
@@ -18,7 +24,12 @@
     "Mamutov",
     "Iryna",
     "Rekhasriraman",
-    "Sobetska"
+    "Sobetska",
+    "Irynas",
+    "Ukrain",
+    "exspesially",
+    "gradueted",
+    "myphoto"
   ],
   "ignorePaths": [
     "node_modules/**",
